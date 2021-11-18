@@ -11,7 +11,7 @@ Describe your course including the name, description, and grade level
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
+Provide **relevant** details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
 
