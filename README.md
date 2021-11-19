@@ -73,7 +73,7 @@ retain it for the 4 years of their high school tenure.
 * Aeries Gradbook Student Information System
 * codehs.com as student IDE for python, python (turtle) or java
 * lucid.app for psuedocode, flowcharts, and storyboarding
-* Runestone: Foundations of Python Programming textbook and workbook
+* Runestone Academy: Foundations of Python Programming textbook and workbook
 * Computational Fairy Tales Blog used for reading for understanding
 * Unity: a cross-platform game engine with built-in IDE developemed by Unity Technologies
 
@@ -92,11 +92,13 @@ via a link given to the instrutor.
 3. www.lucid.app has a free education center that allows students to log in using their existing school
 username and password. This space allows students to create flowchart diagrams easily as well as other 
 planning, like pseudocode. Students share their work via a link given to the instrutor.
-
-
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+4. www.runestone.academy is an open source, online repository of programming language textbooks with built
+in IDE and code lens. This course uses *Foundations of Python Programming*
+5. www.computationaltales.blogspot.com is an free resourse that breaks down computer science concepts by 
+adapting the concepts into a fairytale or mythical setting.  It helps students understand understand the
+various concepts from a different point of view.
+6. Unity is a platform that students can use for their 2nd semester project that is abailable on the stations
+in IT-5, but not on their chromebooks.
 
 ### Impacts
 
