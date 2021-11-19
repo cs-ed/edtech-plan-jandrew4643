@@ -40,6 +40,27 @@ in the ISS pathway.
 
 ## Plan
 
+### Hardware Specifications
+
+*Instrutor Station*
+Custom Built PC
+BaseBoard: Z270 Tomahawk (MS-7A68)
+Processor: Intel Core i7-7700k CPU @ 4.20GHz, 420Mhz, 4core9s), 8 Logical Processor(s)
+16.0 GB RAM
+8 TB SSD / HHD over 4 drives
+Display Adaptor: NVIDIA GeForce GTX 1080
+Four 28" LED Displays
+*It's a rediculous machine for a teacher station, but I inhereted it from the previous teacher*
+
+*Student Stations*
+Various Dell Optiplex 3040, 5050 and Precision 3430
+Processors: Intel Core i5 or i7
+16.0 GB RAM
+500 GB HHD Storage
+28" LED Display
+
+All stations are connected with Cat 5e straight through connector to the CHS Campus Area Network
+
 ### Software Specifications
 
 Describe the software that you will use. Include software used for students as
