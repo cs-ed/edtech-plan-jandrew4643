@@ -9,6 +9,7 @@ Provide a brief description of the purpose of your educational technology Plan
 ### Course
 
 **Progamming and Software Engineering:**
+
 This course is the *concentrator* course in the **Sofware and System Development Pathway**.
 
 Students learn modern programming basics using logic, pseudocode, flow charts, and 
@@ -53,13 +54,14 @@ Four 28" LED Displays
 *It's a rediculous machine for a teacher station, but I inhereted it from the previous teacher*
 
 *Student Stations*
-Various Dell Optiplex 3040, 5050 and Precision 3430
-Processors: Intel Core i5 or i7
+Various Dell Optiplex 3040, 5050 and Precision 3430   
+Processors: Intel Core i5 or i7 
 16.0 GB RAM
 500 GB HHD Storage
 28" LED Display
 
-All stations are connected with Cat 5e straight through connector to the CHS Campus Area Network
+All stations are 3 to 4 years old and are connected with Cat5e straight through connector to 
+the CHS Campus Area Network
 
 ### Software Specifications
 
@@ -69,15 +71,12 @@ installed as well as any online services.
 
 * Google Classroom as a learning managment system
 * codehs.com as student IDE for python, python (turtle) or java
+* lucid.app for psuedocode, flowcharts, and storyboarding
 * Runestone: Foundations of Python Programming textbook and workbook
 * Computational Fairy Tales Blog used for reading for understanding
 
-### Hardware Specifications
-
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
-
 ### Application
+
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
