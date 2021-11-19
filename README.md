@@ -1,7 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6393138&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
 
 ## Context
 
@@ -33,7 +32,7 @@ Networking of Things** (grades 9-12) and the completer course **Cybersecurity & 
 (grades 10-12).  Both are *DualEnrolled* eligible at Butte College.  **SSD** consistes of the 
 concentrator course **Programming& Software Engineering** (grades 9-12) and the completer course 
 **Robotics & Drone Design** (grades 10-12).  All course are taught on the Chico HS campus in 
-room IT-5 with access to IT-6.  IT-5 has 42 computer stations, but typically has a maximum of 36
+room IT-5 with access to IT-6.  IT-5 has 46 computer stations, but typically has a maximum of 36
 students in a class at a time.  The Instrutor has access to a projector, document camera and smart 
 tv.  IT-6 is primarily used for CAM systems such as 3D printers, CNC router table, desktop waterjet 
 and laser.  Additionally is hosts the robotics game field and acts as storage for equipment used 
@@ -79,9 +78,6 @@ retain it for the 4 years of their high school tenure.
 
 ### Application
 
-After the COVID lockdown of 2020, it became imperative that whatever tools were being used to deliver
-content, be accessible from a online environment to be able to continue instruction by remote means.
-
 1. Google Classroom: is used as the primary learning managment tool because Google Workplace is 
 the deault Suite of online software that students used for email and data storage. It works well on
 classroom computers and Chromebooks. Students have access to all their work on and off school site.
@@ -97,12 +93,22 @@ in IDE and code lens. This course uses *Foundations of Python Programming*
 5. www.computationaltales.blogspot.com is an free resourse that breaks down computer science concepts by 
 adapting the concepts into a fairytale or mythical setting.  It helps students understand understand the
 various concepts from a different point of view.
-6. Unity is a platform that students can use for their 2nd semester project that is abailable on the stations
+6. *Unity* is a platform that students can use for their 2nd semester project that is abailable on the stations
 in IT-5, but not on their chromebooks.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+After the COVID lockdown of 2020, it became imperative that whatever tools were being used to deliver
+content, be accessible from a online environment to be able to continue instruction by remote means.
+
+The current configuration of stations in IT-5 conssists of 30 stations on tables with backed chairs at the front 
+of the room.  The Back two rows are raised counters with 16 computers stations with stools for seats.  On order 
+are rolling technology work stations that can fit 4 tp 6 students per station.  While most will be taller to allow 
+students to work while standing, stools will be provided.  Two shorter rolling technology work stations will be in 
+the room that will facilitate any students needing wheel chair or backed chair accomodations. 
+
+After the rolling work stations are in place. Two additional Smart TV's have been obtained to mount on the wall space
+for student collaboration and whiteboard space.  
+
+Additional enrichment activities beyond the class include optional participation in SkillsUSA, , MESA-*Math, Engineering, 
+Science Achievement*, SWE-*Society of Women Engineers*, CHS Computer Science Club, and Panther Robotics.
