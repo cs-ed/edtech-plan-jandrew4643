@@ -43,7 +43,7 @@ in the ISS pathway.
 
 ### Hardware Specifications
 
-*Instrutor Station*
+*Instructor Station*
 * Custom Built PC 
 * BaseBoard: Z270 Tomahawk (MS-7A68)
 * Processor: Intel Core i7-7700k CPU @ 4.20GHz, 420Mhz, 4core9s), 8 Logical Processor(s)
@@ -69,21 +69,29 @@ retain it for the 4 years of their high school tenure.
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
-
 * Google Classroom as a learning managment system through Google Workplace
 * Aeries Gradbook Student Information System
 * codehs.com as student IDE for python, python (turtle) or java
 * lucid.app for psuedocode, flowcharts, and storyboarding
 * Runestone: Foundations of Python Programming textbook and workbook
 * Computational Fairy Tales Blog used for reading for understanding
+* Unity: a cross-platform game engine with built-in IDE developemed by Unity Technologies
 
 ### Application
 
-Google Classroom is used as the primary learning managment tool because Google Workplace is 
-the deault Suite of online software that students used for email and data storage.  It works  
+After the COVID lockdown of 2020, it became imperative that whatever tools were being used to deliver
+content, be accessible from a online environment to be able to continue instruction by remote means.
+
+1. Google Classroom: is used as the primary learning managment tool because Google Workplace is 
+the deault Suite of online software that students used for email and data storage. It works well on
+classroom computers and Chromebooks. Students have access to all their work on and off school site.
+It is also integrated into Aeries Gradebook to make pushing grades from one to the other easier.
+2. www.codehs.com is a free interactive online learning platrom that offers IDE's in many computer 
+languages including, but not limited to, python, python (turtle) and Java. Students share their work 
+via a link given to the instrutor.
+3. www.lucid.app has a free education center that allows students to log in using their existing school
+username and password. This space allows students to create flowchart diagrams easily as well as other 
+planning, like pseudocode. Students share their work via a link given to the instrutor.
 
 
 Describe how you will use the above technologies in the class, including
