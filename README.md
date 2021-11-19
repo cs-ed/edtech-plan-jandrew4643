@@ -26,10 +26,10 @@ Chico Senior High School is located in Chico, CA and is one of two comprehensive
 schools in the Chico Unified School District.  The overall student population is approximately 
 2,000 students.  The **Industrial Technology Department** provides four pathways for students 
 who are interested in Career and Technical Education fields.  The two pathways that fall under
-*Computer Science* are **Information Support & Services**(ISS) and **Software and Systems 
-Development**(SSD).  **ISS** consistes of the concentrator course **Computers, Components & the
+*Computer Science* are **Information Support & Services** (ISS) and **Software and Systems 
+Development** (SSD).  **ISS** consistes of the concentrator course **Computers, Components & the
 Networking of Things** (grades 9-12) and the completer course **Cybersecurity & Networking** 
-(grades 10-12).  Both are *DualEnrolled* eligible at Butte College.  **SSD** consistes of the 
+(grades 10-12).  Both are *Dual Enrolled* eligible at Butte College.  **SSD** consistes of the 
 concentrator course **Programming& Software Engineering** (grades 9-12) and the completer course 
 **Robotics & Drone Design** (grades 10-12).  All course are taught on the Chico HS campus in 
 room IT-5 with access to IT-6.  IT-5 has 46 computer stations, but typically has a maximum of 36
@@ -79,7 +79,7 @@ retain it for the 4 years of their high school tenure.
 ### Application
 
 1. Google Classroom: is used as the primary learning managment tool because Google Workplace is 
-the deault Suite of online software that students used for email and data storage. It works well on
+the default Suite of online software that students used for email and data storage. It works well on
 classroom computers and Chromebooks. Students have access to all their work on and off school site.
 It is also integrated into Aeries Gradebook to make pushing grades from one to the other easier.
 2. www.codehs.com is a free interactive online learning platrom that offers IDE's in many computer 
@@ -103,11 +103,11 @@ content, be accessible from a online environment to be able to continue instruct
 
 The current configuration of stations in IT-5 conssists of 30 stations on tables with backed chairs at the front 
 of the room.  The Back two rows are raised counters with 16 computers stations with stools for seats.  On order 
-are rolling technology work stations that can fit 4 tp 6 students per station.  While most will be taller to allow 
+are rolling technology work stations that can fit 4 to 6 students per station.  While most will be taller to allow 
 students to work while standing, stools will be provided.  Two shorter rolling technology work stations will be in 
 the room that will facilitate any students needing wheel chair or backed chair accomodations. 
 
-After the rolling work stations are in place. Two additional Smart TV's have been obtained to mount on the wall space
+Once the rolling work stations are in place. Two additional Smart TV's have been obtained to mount on the wall space
 for student collaboration and whiteboard space.  
 
 Additional enrichment activities beyond the class include optional participation in SkillsUSA, , MESA-*Math, Engineering, 
