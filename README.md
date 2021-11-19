@@ -44,24 +44,29 @@ in the ISS pathway.
 ### Hardware Specifications
 
 *Instrutor Station*
-Custom Built PC
+Custom Built PC: 
 BaseBoard: Z270 Tomahawk (MS-7A68)
 Processor: Intel Core i7-7700k CPU @ 4.20GHz, 420Mhz, 4core9s), 8 Logical Processor(s);
 16.0 GB RAM;
 8 TB SSD / HHD over 4 drives;
 Display Adaptor: NVIDIA GeForce GTX 1080;
 Four 28" LED Displays
--*It's a ridiculous machine for a teacher station, but I inhereted it from the previous teacher*
+
+*It's a ridiculous machine for a teacher station, but I inhereted it from the previous teacher*
+
 
 *Student Stations*
 Various Dell Optiplex 3040, 5050 and Precision 3430   
-Processors: Intel Core i5 or i7 
-16.0 GB RAM
+Processors: Intel Core i5 or i7;
+16.0 GB RAM;
 500 GB HHD Storage
 28" LED Display
 
 All stations are 3 to 4 years old and are connected with Cat5e straight through connector to 
 the CHS Campus Area Network
+
+All students are also issued a personal Chromebook by CUSD.  They received a new one as Freshman and 
+retain it for the 4 years of their high school tenure.
 
 ### Software Specifications
 
@@ -69,13 +74,17 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
-* Google Classroom as a learning managment system
+* Google Classroom as a learning managment system through Google Workplace
+* Aeries Gradbook Student Information System
 * codehs.com as student IDE for python, python (turtle) or java
 * lucid.app for psuedocode, flowcharts, and storyboarding
 * Runestone: Foundations of Python Programming textbook and workbook
 * Computational Fairy Tales Blog used for reading for understanding
 
 ### Application
+
+Google Classroom is used as the primary learning managment tool because Google Workplace is 
+the deault Suite of online software that students used for email and data storage.  It works  
 
 
 Describe how you will use the above technologies in the class, including
