@@ -23,6 +23,11 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
+* Google Classroom as a learning managment system
+* codehs.com as student IDE for python, python (turtle) or java
+* Runestone: Foundations of Python Programming textbook and workbook
+* Computational Fairy Tales Blog used for reading for understanding
+
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
