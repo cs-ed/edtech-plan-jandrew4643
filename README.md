@@ -51,8 +51,7 @@ Processor: Intel Core i7-7700k CPU @ 4.20GHz, 420Mhz, 4core9s), 8 Logical Proces
 8 TB SSD / HHD over 4 drives;
 Display Adaptor: NVIDIA GeForce GTX 1080;
 Four 28" LED Displays
-
-*It's a rediculous machine for a teacher station, but I inhereted it from the previous teacher*
+-*It's a ridiculous machine for a teacher station, but I inhereted it from the previous teacher*
 
 *Student Stations*
 Various Dell Optiplex 3040, 5050 and Precision 3430   
