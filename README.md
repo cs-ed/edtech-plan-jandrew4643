@@ -8,7 +8,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Progamming and Software Engineering:
+**Progamming and Software Engineering:**
 This course is the *concentrator* course in the **Sofware and System Development Pathway**.
 
 Students learn modern programming basics using logic, pseudocode, flow charts, and 
@@ -22,9 +22,21 @@ business, manufacturing, nursing, and law enforcement.
 
 ### Situation
 
-Provide **relevant** details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+Chico Senior High School is located in Chico, CA and is one of two comprehensive high
+schools in the Chico Unified School District.  The overall student population is approximately 
+2,000 students.  The **Industrial Technology Department** provides four pathways for students 
+who are interested in Career and Technical Education fields.  The two pathways that fall under
+*Computer Science* are **Information Support & Services**(ISS) and **Software and Systems 
+Development**(SSD).  **ISS** consistes of the concentrator course **Computers, Components & the
+Networking of Things** (grades 9-12) and the completer course **Cybersecurity & Networking** 
+(grades 10-12).  Both are *DualEnrolled* eligible at Butte College.  **SSD** consistes of the 
+concentrator course **Programming& Software Engineering** (grades 9-12) and the completer course 
+**Robotics & Drone Design** (grades 10-12).  All course are taught on the Chico HS campus in 
+room IT-5 with access to IT-6.  IT-5 has 42 computer stations, but typically has a maximum of 36
+students in a class at a time.  The Instrutor has access to a projector, document camera and smart 
+tv.  IT-6 is primarily used for CAM systems such as 3D printers, CNC router table, desktop waterjet 
+and laser.  Additionally is hosts the robotics game field and acts as storage for equipment used 
+in the ISS pathway.
 
 ## Plan
 
