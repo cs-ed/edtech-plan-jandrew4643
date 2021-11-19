@@ -5,9 +5,20 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ## Context
 
+
 ### Course
 
-Describe your course including the name, description, and grade level
+Progamming and Software Engineering:
+This course is the *concentrator* course in the **Sofware and System Development Pathway**.
+
+Students learn modern programming basics using logic, pseudocode, flow charts, and 
+storyboarding with programs such as Python. This course is designed to introduce students 
+to math concepts in computer programming and data manipulation fundamentals. There is an 
+emphasis on top down programming technique; syntax; documentation methods; modular, event 
+oriented and object-oriented programming. Opportunity will be gine to use 3D modeling in 
+Blender and game design through Unity. Programming and Software Engineering experience is 
+desired in most careers, even those outside of specific computer science fields, such as 
+business, manufacturing, nursing, and law enforcement.
 
 ### Situation
 
