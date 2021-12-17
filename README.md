@@ -60,11 +60,9 @@ in the ISS pathway.
 * 500 GB HHD Storage
 * 28" LED Display
 
-All stations are 3 to 4 years old and are connected with Cat5e straight through connector to 
-the CHS Campus Area Network
+All stations are 3 to 4 years old and are connected with Cat5e straight through connector to the CHS Campus Area Network
 
-All students are also issued a personal Chromebook by CUSD.  They received a new one as Freshman and 
-retain it for the 4 years of their high school tenure.
+All students are also issued a personal Chromebook by CUSD.  They received a new one as Freshman and retain it for the 4 years of their high school tenure.
 
 ### Software Specifications
 
@@ -78,23 +76,24 @@ retain it for the 4 years of their high school tenure.
 
 ### Application
 
-1. Google Classroom: is used as the primary learning managment tool because Google Workplace is 
-the default Suite of online software that students used for email and data storage. It works well on
-classroom computers and Chromebooks. Students have access to all their work on and off school site.
-It is also integrated into Aeries Gradebook to make pushing grades from one to the other easier.
-2. www.codehs.com is a free interactive online learning platrom that offers IDE's in many computer 
-languages including, but not limited to, python, python (turtle) and Java. Students share their work 
-via a link given to the instrutor.
+1. Google Classroom: is used as the primary learning managment tool because Google Workplace is the default Suite of online software that students used for email and data storage. It works well on classroom computers and Chromebooks. Students have access to all their work on and off school site. It is also integrated into Aeries Gradebook to make pushing grades from one to the other easier.
+2. www.codehs.com is a free interactive online learning platrom that offers IDE's in many computer languages including, but not limited to, python, python (turtle) and Java. Students share their work via a link given to the instrutor.
 3. www.lucid.app has a free education center that allows students to log in using their existing school
-username and password. This space allows students to create flowchart diagrams easily as well as other 
-planning, like pseudocode. Students share their work via a link given to the instrutor.
-4. www.runestone.academy is an open source, online repository of programming language textbooks with built
-in IDE and code lens. This course uses *Foundations of Python Programming*
-5. www.computationaltales.blogspot.com is an free resourse that breaks down computer science concepts by 
-adapting the concepts into a fairytale or mythical setting.  It helps students understand understand the
-various concepts from a different point of view.
-6. *Unity* is a platform that students can use for their 2nd semester project that is abailable on the stations
-in IT-5, but not on their chromebooks.
+username and password. This space allows students to create flowchart diagrams easily as well as other  planning, like pseudocode. Students share their work via a link given to the instrutor.
+4. www.runestone.academy is an open source, online repository of programming language textbooks with built in IDE and code lens. This course uses *Foundations of Python Programming*
+5. www.computationaltales.blogspot.com is an free resourse that breaks down computer science concepts by  adapting the concepts into a fairytale or mythical setting.  It helps students understand understand the various concepts from a different point of view.
+6. *Unity* is a platform that students can use for their 2nd semester project that is abailable on the stations in IT-5, but not on their chromebooks.
+
+### Example of Unit Lesson Progression: Boolean Values and Conditional Statements
+
+1. Lesson Preview: Assign readings from Computational Fairy Tales - The Town of Bool: Part 1 of Ann's encounter with the Booleans, The Gates of XOR: Part 2 of Ann's encounter with the Booleans, and The Valley of NAND and NOR: Part 3 of Ann's encounter with the Booleans.  Short stories where all three can generally be read in 10 to 15 minutes. Check for understanding by having groups of four record and share the key points and have each group share one key point to the class.
+2. Use SmartTV or video projector to share video on Python Booleans.  Video HERE.  When video is over do manual Boolean logic problems with the class having them raise their hands to predict if the value will be True or False. (Hint: write down the problems you plan to use ahead of time so you are not standing in front of the room trying to think up math problems on the fly).
+3. Distribute this worksheet via Google Classroom.  Have students work on it for 15 to 20 minutes individually.  5 minutes with their Paired Programming Partner.  1 minute with their table of 4.  Worksheet submitted when done.  
+4. Share Unit 3_Day 1 Notes Prompt with class.  They will use this to fill in where appropriate and check with pair partner before the end of class.  Demo on screen using CodeHS.com how Python Syntax for Boolean values are used and identified.
+5. Assign reading and exercises from Runestone: Foundations of Python Programming 8.2 through 8.5.  Play videos in class if desired to reinforce concepts.  This assignment can be done during class time or assigned to do out of the classroom.
+6. Demo lucid.app to students for flowcharting using actual programming logic with conditional statements to be used as a template.  Have students submit shared link to Google Classroom to ensure they know how to use the feature for Python Labs.
+7. Assign Python Lab 5_Conditional Statements to students through Google Classroom.  Assignment must include pseudocode, flowchart, snip of output terminal from codehs.com and link to actual code. Give students at least 30 minutes in class for two class periods to work on their code.  Use Paired Partners and Table Group to seek help for troubleshooting before calling on the instructor or TA for assistance.
+
 
 ### Impacts
 
