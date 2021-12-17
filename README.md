@@ -96,18 +96,12 @@ username and password. This space allows students to create flowchart diagrams e
 8. Peer review and reflection. Students are randomly assigned another students program to review and provide feedback on.  Once the review is received, the student who wrote the program will write a reflection explaining how they thought they did with their program and what changes they would immplement if they had to do it again with their current knowledge and skill.
 
 ### Impacts
+Besides learning sytax and symantics of Python programming, much of this course has focus on troubleshooting, problemsolving, and teamwork (Soft Skills).  The use of Paired Partners and slightly larger groups of 4 to 5 students helps students realize they are not alone in their learning process.  Being able to call on others besides the instructor for assistance helps them develope a sense of community within the classroom.  Paired Parntners and groups should be rotated occasionally so that students can learn that everyone in class is a resource.
 
-After the COVID lockdown of 2020, it became imperative that whatever tools were being used to deliver
-content, be accessible from a online environment to be able to continue instruction by remote means.
+After the COVID lockdown of 2020, it became imperative that whatever tools were being used to deliver content, be accessible from a online environment to be able to continue instruction by remote means.
 
-The current configuration of stations in IT-5 conssists of 30 stations on tables with backed chairs at the front 
-of the room.  The Back two rows are raised counters with 16 computers stations with stools for seats.  On order 
-are rolling technology work stations that can fit 4 to 6 students per station.  While most will be taller to allow 
-students to work while standing, stools will be provided.  Two shorter rolling technology work stations will be in 
-the room that will facilitate any students needing wheel chair or backed chair accomodations. 
+The current configuration of stations in IT-5 conssists of 30 stations on tables with backed chairs at the front of the room.  The Back two rows are raised counters with 16 computers stations with stools for seats.  On order are rolling technology work stations that can fit 4 to 6 students per station.  While most will be taller to allow students to work while standing, stools will be provided.  Two shorter rolling technology work stations will be in the room that will facilitate any students needing wheel chair or backed chair accomodations. 
 
-Once the rolling work stations are in place. Two additional Smart TV's have been obtained to mount on the wall space
-for student collaboration and whiteboard space.  
+Once the rolling work stations are in place. Two additional Smart TV's have been obtained to mount on the wall space for student collaboration and whiteboard space.  
 
-Additional enrichment activities beyond the class include optional participation in SkillsUSA, , MESA-*Math, Engineering, 
-Science Achievement*, SWE-*Society of Women Engineers*, CHS Computer Science Club, and Panther Robotics.
+Additional enrichment activities beyond the class include optional participation in SkillsUSA, , MESA-*Math, Engineering, Science Achievement*, SWE-*Society of Women Engineers*, CHS Computer Science Club, and Panther Robotics.
